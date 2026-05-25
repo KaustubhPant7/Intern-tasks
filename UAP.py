@@ -93,7 +93,7 @@ def readuserbyid():
             lines = file.readlines()
 
             for i in range(len(lines)):
-                if lines[i].startswith("User_id:"):
+                if lines[i].startswith("User id:"):
                     user_id = lines[i].strip().split(":")[1].strip()
 
                     if user_id == target_id:

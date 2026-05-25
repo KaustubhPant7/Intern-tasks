@@ -1,12 +1,9 @@
 User id:KP1
-User Name:Kaustubh Pant
+User Name:Kapil Pant
 
 User id:SP1
 User Name:Semantak Pant
 
 User id:KA1
 User Name:Kuamr Adhaikari
-
-User id:JA1
-User Name:Jeewan Adhikari
 
