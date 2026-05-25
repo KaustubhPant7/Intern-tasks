@@ -1,0 +1,8 @@
+Product Id:M1
+Product Name:Mouse
+Product Price:2500
+
+Product Id:C1
+Product Name:Chess Board
+Product Price:1800
+

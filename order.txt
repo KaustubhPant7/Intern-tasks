@@ -1,0 +1,10 @@
+Order_id:KA1-M1-1
+User_name:Kuamr Adhaikari
+Product_name:Mouse
+Quantity:2
+
+Order_id:KP1-M1-1
+User_name:"Kaustubh Pant"
+Product_name:"Mouse"
+Quantity:"3"
+
